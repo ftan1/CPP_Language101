@@ -204,5 +204,3 @@ eg. bool is_happy = (!is_hungry && is_warm) || is_rich;
 Increment operator - Post(a++), Pre(++a)
 Decrement operator - Post(a--), Pre(--a)
 */
-
- 
