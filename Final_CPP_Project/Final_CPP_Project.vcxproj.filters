@@ -21,5 +21,8 @@
     <ClCompile Include="2_Namespaces_Variables\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3_Input_Output_Streams\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
